@@ -1,4 +1,4 @@
-# The-iOS-app-INVESTMIND
+# iOS_app_INVESTMIND
 Application for investment training and virtual portfolio creation
 
 Не хочу сюда выкладывать с точки зрения безопасности и конфиденциальности...
